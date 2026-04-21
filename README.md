@@ -1,3 +1,3 @@
 project based on django 
-based on python
+based on the python
 and frontend
